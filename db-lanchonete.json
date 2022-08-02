@@ -1,0 +1,93 @@
+{
+	"molhos": [
+		{
+			"molho": "ketchup",
+			"descricao": "molho de ketchup",
+			"imgSrc": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59541/preview.svg",
+			"preco": 0.5
+		},
+		{
+			"molho": "mostarda",
+			"descricao": "molho de mostarda",
+			"imgSrc": "https://cdn-icons.flaticon.com/png/512/661/premium/661756.png?token=exp=1659052406~hmac=10cbadeaf4f91f627e4ab04809706eac",
+			"preco": 0.5
+		},
+		{
+			"molho": "maionese",
+			"descricao": "molho de maionese",
+			"imgSrc": "https://cdn-icons.flaticon.com/png/512/3743/premium/3743598.png?token=exp=1659052425~hmac=13a62d08648489475957be0a30024dc2",
+			"preco": 0.5
+		}
+	],
+	"saladas": [
+		{
+			"salada": "alface",
+			"descricao": "salada tipo alface",
+			"imgSrc": "https://cdn-icons-png.flaticon.com/512/2503/2503809.png",
+			"preco": 1.0
+		},
+		{
+			"salada": "tomate",
+			"descricao": "salada tipo tomate",
+			"imgSrc": "https://cdn-icons.flaticon.com/png/512/3743/premium/3743616.png?token=exp=1659280289~hmac=1debb0caf6dd9a46ea05c366c1f4d210",
+			"preco": 1.0
+		},
+		{
+			"salada": "pimentao",
+			"descricao": "salada tipo pimentao",
+			"imgSrc": "https://cdn-icons-png.flaticon.com/512/2909/2909814.png",
+			"preco": 1.0
+		},
+		{
+			"salada": "azeitona",
+			"descricao": "salada tipo azeitona",
+			"imgSrc": "https://cdn-icons.flaticon.com/png/512/3130/premium/3130149.png?token=exp=1659396363~hmac=ffb930271a915f9bab98eaecbc778996",
+			"preco": 1.0
+		}
+	],
+	"acompanhamentos": [
+		{
+			"acompanhamento": "batata-frita",
+			"imgSrc": "https://cdn-icons-png.flaticon.com/512/1057/1057356.png",
+			"preco": 5.0
+		},
+		{
+			"acompanhamento": "nuggets",
+			"imgSrc": "https://cdn-icons.flaticon.com/png/512/1921/premium/1921301.png?token=exp=1659280412~hmac=4cde76d00e9c8ef8cff978908490431e",
+			"preco": 5.0
+		},
+		{
+			"acompanhamento": "sorvete",
+			"imgSrc": "https://cdn-icons-png.flaticon.com/512/938/938063.png",
+			"preco": 2.0
+		}
+	],
+	"bebidas": [
+		{ "bebida": "Coca-Cola Lata", "preco": 4.0 },
+		{ "bebida": "Heineken Long Neck", "preco": 7.0 },
+		{ "bebida": "Água sem Gás", "preco": 2.0 },
+		{ "bebida": "Ice Tea", "preco": 4.0 }
+	],
+	"paes": [
+		{ "pao": "Integral", "preco": 6.0 },
+		{ "pao": "Gergelim", "preco": 6.0 },
+		{ "pao": "Australiano", "preco": 8.0 }
+	],
+	"proteinas": [
+		{
+			"proteina": "Bovino",
+			"descricao": "Hamburguer Bovino coberto de barbecue com calabresa defumada",
+			"preco": 6.0
+		},
+		{
+			"proteina": "Frango",
+			"descricao": "Hamburguer de Frango cobertto de molho especial da casa e cheddar",
+			"preco": 6.0
+		},
+		{
+			"proteina": "Vegano",
+			"descricao": " Hamburguer de Grão de bico coberto de molho especial da casa e champignon gratinado",
+			"preco": 8.0
+		}
+	]
+}
